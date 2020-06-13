@@ -13,7 +13,7 @@ This simple stock predictor will give a binary 1 or 0 to determine if a stock wi
     
 ### 2. **STAGE 2: Feature Rich Stock Predictor [WIP]**
 
-In stage 2 the goal is to add both technical and non-technical features to the data in order to simulate trading ideas and strategies. Features ideas include *value-investing type features*, *technical analysis type features* & *sentiment analysis* . 
+In stage 2 the goal is to add both technical and non-technical features to the data in order to simulate trading ideas and strategies. Features ideas include *value-investing*, *technical analysis* & *sentiment analysis* type features . 
 
 STAGE 3-5 coming soon 
 
