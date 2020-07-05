@@ -7,7 +7,7 @@ In the following notebook a candlestick plot is made with buy and sell signals. 
     - Commodity Channel Index (CCI)
     - Moving Average Convergence Divergence (MACD)
     - Volume & Volume Weigheted Average Price (VWAP)
-    - Candle Stick Paterns by Weight
+    - Candle Stick Patterns by Weight
     
 Buy and Sell signals can be added with markers to this plot. A simple example with MACD markers on the candlestick is shown below with Ethereum (**ETH-USD**) & Intel (**INTC**).
 
