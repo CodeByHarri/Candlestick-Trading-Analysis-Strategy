@@ -1,8 +1,6 @@
 # CandleStick Trading, Analysis & Predictions
 
-In the following notebook a candlestick plot is made with buy and sell signals. 
-
-The sub plots are interchangable. A few examples included in the notebook are: 
+In the following notebook a candlestick plot is made with buy and sell signals. The sub plots are interchangable. A few examples included in the notebook are: 
 
     - Money Flow Index (MFI)
     - Stoch Relative Strenth Index (RSI)
