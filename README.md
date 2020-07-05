@@ -9,7 +9,7 @@ In the following notebook a candlestick plot is made with buy and sell signals. 
     - Volume & Volume Weigheted Average Price (VWAP)
     - Candle Stick Patterns by Weight
     
-Strategies can be made with the buy and sell functions and markers will be added to this plot. A simple example with MACD markers on the candlestick is shown below with Ethereum (**ETH-USD**) & Intel (**INTC**).
+Strategies can be made with the buy/sell functions and markers will be added to this plot. A simple example with MACD markers on the candlestick is shown below with Ethereum (**ETH-USD**) & Intel (**INTC**).
 
 <p float="left">
   <img src="GIFs/ETHUSD.gif" width="49%" />
