@@ -14,7 +14,9 @@ The sub plots are interchangable. A few examples included in the notebook are:
 Buy and Sell signals can be added with markers to this plot. A simple example with MACD markers on the candlestick is shown below with Ethereum (ETH-USD) & Intel (INTC).
 
 ### ETH-USD
-![ETHUSD.gif](attachment:ETHUSD.gif)
+<img src="GIFs/ETHUSD.gif" width="70%" align="">
+
 
 ### INTC
-![INTC.gif](attachment:INTC.gif)
+<img src="GIFs/INTC.gif" width="70%" align="">
+
