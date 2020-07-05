@@ -1,23 +1,20 @@
-# Stock Prediction Using Feature Creation & Machine Learning
+# CandleStick Trading, Analysis & Predictions
 
-## Objective 
+In the following notebook a candlestick plot is made with buy and sell signals. 
 
-*This project aims to accurately predict if a selected stock will increase or decrease in price for a selected time lag using feature creation and machine learning methods. This object will be broken down into **5 stages*** 
+The sub plots are interchangable. A few examples included in the notebook are: 
 
-## Methadology 
-
-### 1. **STAGE 1: A Simple Stock Predictor [COMPLETE]** 
+    - Money Flow Index (MFI)
+    - Stoch Relative Strenth Index (RSI)
+    - Commodity Channel Index (CCI)
+    - Moving Average Convergence Divergence (MACD)
+    - Volume & Volume Weigheted Average Price (VWAP)
+    - Candle Stick Paterns by Weight
     
-This simple stock predictor will give a binary 1 or 0 to determine if a stock will go up or down for a certain time lag. Notebook *S1_Simple_Stock_Predictor* undergoes some simple feature creation for the SP500 with lag 1 aiming to predict if the next day the SP500 will go up or down. It uses LightGBM and Optuna for tunning. 
-    
-    
-### 2. **STAGE 2: Feature Rich Stock Predictor [WIP]**
+Buy and Sell signals can be added with markers to this plot. A simple example with MACD markers on the candlestick is shown below with Ethereum (ETH-USD) & Intel (INTC).
 
-In stage 2 the goal is to add both technical and non-technical features to the data in order to simulate trading ideas and strategies. Features ideas include *value-investing*, *technical analysis* & *sentiment analysis* type features . 
+### ETH-USD
+![ETHUSD.gif](attachment:ETHUSD.gif)
 
-STAGE 3-5 coming soon 
-
-
-```python
-
-```
+### INTC
+![INTC.gif](attachment:INTC.gif)
