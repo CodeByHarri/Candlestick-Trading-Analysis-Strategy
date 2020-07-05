@@ -16,7 +16,10 @@ Buy and Sell signals can be added with markers to this plot. A simple example wi
 ### ETH-USD
 <img src="GIFs/ETHUSD.gif" width="70%" align="">
 
-
 ### INTC
-<img src="GIFs/INTC.gif" width="70%" align="">
 
+
+<p float="left">
+  <img src="GIFs/ETHUSD.gif" width="100" align=""/>
+  <img src="GIFs/INTC.gif" width="100" align=""/> 
+</p>
