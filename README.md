@@ -1,4 +1,4 @@
-# CandleStick Trading, Analysis & Strategy
+# Candlestick Trading, Analysis & Strategy
 
 In the following notebook a candlestick plot is made with buy and sell signals. Data in read in using Yahoo Finance. CandlesStick patterns are found using Ta-Lib. The sub plots are interchangable. A few examples included in the notebook are: 
 
