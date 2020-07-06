@@ -1,6 +1,6 @@
 # Candlestick Trading, Analysis & Strategy
 
-In the following notebook a candlestick plot is made with buy and sell signals. Data in read in using Yahoo Finance. CandlesStick patterns are found using Ta-Lib. The sub plots are interchangable. A few examples included in the notebook are: 
+In the following notebook a candlestick plot is made with buy and sell signals. Data is read in using Yahoo Finance. CandlesStick patterns are found using Ta-Lib. The sub plots are interchangable. A few examples included in the notebook are: 
 
     - Money Flow Index (MFI)
     - Stochastic Relative Strenth Index (RSI)
